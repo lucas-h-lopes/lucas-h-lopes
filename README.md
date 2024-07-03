@@ -1,10 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8739AA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AD0AF8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+me+chamo+Lucas+Lopes;Trabalho+como+Manual+Tester+na+empresa+Compass+UOL;Meu+sonho+é+me+tornar+um+desenvolvedor+back-end;Seja+muito+bem-vindo+ao+meu+perfil🙂)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AD0AF8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+me+chamo+Lucas+Lopes;Sou+Manual+Tester+na+empresa+Compass+UOL;Meu+sonho+é+me+tornar+um+desenvolvedor+back-end;Seja+muito+bem-vindo+ao+meu+perfil🙂)](https://git.io/typing-svg)
 
 <div align="left">  
-  <img width="49%" height="155px" src="https://github-readme-stats.vercel.app/api?username=lucas-h-lopes&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=FFAE00" alt="Lucas Lopes github stats" /> 
-  <img width="31%" height="217px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-h-lopes&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=FFAE00" />
+  <img width="49%" height="197px" src="https://github-readme-stats.vercel.app/api?username=lucas-h-lopes&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=FFAE00" alt="Lucas Lopes github stats" /> 
+  <img width="31%" height="197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-h-lopes&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=FFAE00" />
   
 </div>
 
