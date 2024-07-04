@@ -28,6 +28,10 @@
 - [Java Bootcamp Santander](https://github.com/lucas-h-lopes/estudo-java-dio)
 - [Java Test Automation University](https://github.com/lucas-h-lopes/Test-Automation-University)
 
+### Certificações:
+- [AWS Cloud Practitioner](https://www.credly.com/badges/90768ce7-c542-4729-a810-34340daf008c/linked_in_profile) - Pontuação: 916/1000
+- [Certified Tester Foundation Level](https://www.credly.com/badges/fc59ceb9-f4d9-4dc5-9cb5-30dca8d450cd) - Pontuação: 31/40
+
 ### Contato:
 <div align="left">
   <a href="https://www.linkedin.com/in/lucashlopes/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
