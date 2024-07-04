@@ -4,7 +4,7 @@
 
 <div align="left">  
   <img width="49%" height="197px" src="https://github-readme-stats.vercel.app/api?username=lucas-h-lopes&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=FFAE00" alt="Lucas Lopes github stats" /> 
-  <img width="31%" height="197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-h-lopes&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=FFAE00" />
+  <img width="31%" height="197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-h-lopes&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=FFAE00" />
   
 </div>
 
