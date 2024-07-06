@@ -25,7 +25,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Projetos Recentes:
-- [Java Bootcamp Santander](https://github.com/lucas-h-lopes/estudo-java-dio)
+- [Git Study](https://github.com/lucas-h-lopes/git-study)
 - [Java Test Automation University](https://github.com/lucas-h-lopes/Test-Automation-University)
 
 ### Certificações:
