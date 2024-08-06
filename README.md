@@ -25,8 +25,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Projetos Recentes:
+- [spring-first-steps](https://github.com/lucas-h-lopes/spring-boot-first-steps)
 - [jdbc-dao](https://github.com/lucas-h-lopes/jdbc-dao)
-- [Calculator](https://github.com/lucas-h-lopes/calculator)
 
 ### Certificações:
 - [AWS Cloud Practitioner](https://www.credly.com/badges/90768ce7-c542-4729-a810-34340daf008c/linked_in_profile) - Pontuação: 916/1000
